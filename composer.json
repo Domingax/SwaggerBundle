@@ -19,7 +19,7 @@
     "fr3d/swagger-assertions": "^0.7.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "^5.2",
+    "phpunit/phpunit": "~8.5",
     "symfony/phpunit-bridge": "^2.7|^3.0",
     "friendsofsymfony/rest-bundle": "^1.7"
   },
